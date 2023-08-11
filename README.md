@@ -41,6 +41,6 @@ Welcome to Simon Game – a classic memory game where you test your memory skill
 
 ## Contributing
 
-Contributions are welcome! If you have any enhancements or bug fixes, feel free to submit a pull request. Please ensure your PR follows the [contribution guidelines](CONTRIBUTING.md).
+Contributions are welcome! If you have any enhancements or bug fixes, feel free to submit a pull request.
 
 Enjoy the game and happy memory testing!
